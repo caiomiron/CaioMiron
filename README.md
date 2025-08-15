@@ -16,9 +16,7 @@
   <img align="center" alt="Caio-CSS" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
   <img align="center" alt="Caio-git" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
   <img align="center" alt="Caio-git" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
-
-  ##
-  
+  <img align="right" alt="Corinthians" height="100" widht="150" src="https://github.com/user-attachments/assets/37fe4456-095e-4a1b-9ff4-fd7038cd6b56"/>
 </div>
 
   <div>
