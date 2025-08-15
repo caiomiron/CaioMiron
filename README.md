@@ -1,8 +1,8 @@
 ## Salvee, eu sou o Caio Miron, desenvolvedor Back-End !
 <div>
 <a href="https://github.com/caiomiron">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiomiron&show_icons=true&theme=algolia"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiomiron&layout=compact&langs_count=16&theme=algolia"/>
+<img width="42%"" src="https://github-readme-stats.vercel.app/api?username=caiomiron&show_icons=true&theme=algolia"/>
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiomiron&layout=compact&langs_count=16&theme=algolia"/>
 </div>
 
   ##
